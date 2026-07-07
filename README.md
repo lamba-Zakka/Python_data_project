@@ -37,7 +37,7 @@ View my notebook with detailed steps here:
 [2_Skills_Count.ipynb](Project\2_Skills_Count.ipynb)
 
 ### Results
-![Visualization of Top Demand Skills](Project\images\2_skill_count.png)
+![Visualization of Top Demand Skills](Project/images/2_skill_count.png)
 
 ### Insights 
 
@@ -48,7 +48,7 @@ View my notebook with detailed steps here:
 ## 2. How are in-demand skills trending for data analysis?
 
 ### Results
-![Trending Top Skills for Data Analysts in the US](Project\images\3_skill_Trends.png)
+![Trending Top Skills for Data Analysts in the US](Project/images/3_skill_Trends.png)
 *Bar graph vizualizing the trending top skills for data analyst in the us in 2026.*
 
 ### Insights:
@@ -62,7 +62,7 @@ Here are three concise insights from the chart:
 
 ## 3 How well do jobs and skills pay for Dta Analysis?
 ### Results
-![Salary Distributions of Data Jobs in the US](Project\images\4_salary_Analysis.png)
+![Salary Distributions of Data Jobs in the US](Project/images/4_salary_Analysis.png)
 *Box plot visualizing the salary distribution for the top 6 data job titles.*
 
 
@@ -77,7 +77,7 @@ Here are three concise insights from the chart:
 ### Highest Paid & Most Demanded Skills for Data 
 
 #### Visualize Data 
-![Highest Paid & Most Demanded Skills for Data](Project\images\Highest_paid_and_most_in_demand_skills_for_data_analysis_US.png)
+![Highest Paid & Most Demanded Skills for Data](Project/images/Highest_paid_and_most_in_demand_skills_for_data_analysis_US.png)
 
 #### Insight
 * The highest-paying skills are not necessarily the most in demand. Specialized skills such as Dplyr, Bitbucket, GitLab, and Solidity command the highest median salaries, even though they are less commonly requested in job postings.
@@ -89,7 +89,7 @@ Here are three concise insights from the chart:
 ## 4. What is the most optimal skill to learn for Data Analysis?
 
 #### Visualization
-![Most Optimal Skills For Data Analyst in US](Project\images\5_Optimal_Skills.png)
+![Most Optimal Skills For Data Analyst in US](Project/images/5_Optimal_Skills.png)
 
 #### Insights
 * Python offers the best balance of demand and salary, combining one of the highest median salaries (about $98K) with strong demand (around 31% of job postings), making it one of the most valuable skills for data analysts.
